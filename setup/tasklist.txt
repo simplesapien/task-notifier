@@ -1,0 +1,41 @@
+1. API Integration and Data Collection:
+   - Incorporate other APIs (e.g., Juju, Open Skills, Reed?, The Muse, USAJobs, WhatJobs, ZipRecruiter).
+   - Implement try/except blocks for API calls.
+   - Refine API queries for quality job responses.
+   
+2. Data Cleaning:
+   - Filter out listings with unwanted terms.
+   - Normalize job titles and other data.
+   - Check against a local SQLite database.
+   - Optimize order of listings based on recency and relevance.
+
+3. Web Interaction:
+   - Navigate to the "apply" page of each listing.
+   - Identify and interact with common form fields.
+   - Add predefined templates for popular job sites.
+   - Recognize multi-step application forms.
+   - Add delays between actions.
+
+4. User Interaction:
+   - Take input for job title and location.
+   - Develop an interactive menu for users.
+   - Review automated applications before sending.
+   - Set and change preferences.
+   - Review previously seen listings.
+
+5. Database Management:
+   - Store job listings in a local SQLite database.
+   - Periodically prune and update the database.
+   - Check new job listings against stored ones.
+
+6. Error Handling & Feedback:
+   - Implement robust error handling.
+   - Provide intuitive feedback to users.
+   - Set up a feedback mechanism.
+   - Improve the tool using collected feedback.
+
+7. Additional Features:
+   - Allow running as a cron job.
+   - Implement advanced form-filling techniques.
+   - Add proxy support.
+   - Add a configuration file or method.

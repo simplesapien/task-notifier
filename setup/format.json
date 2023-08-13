@@ -1,0 +1,63 @@
+{
+    "Sunday": {
+        "12:00 pm - 01:00 pm": "LeetCode problem & review.",
+        "01:00 pm - 02:30 pm": "Work on Python project: API Integration.",
+        "02:30 pm - 03:00 pm": "Quick lunch/snack.",
+        "03:00 pm - 12:00 am": "Work at the restaurant."
+    },
+    "Monday": {
+        "08:00 am - 09:00 am": "Morning routine/breakfast.",
+        "09:00 am - 10:00 am": "LeetCode problem & review.",
+        "10:00 am - 12:00 pm": "Work on Python project: Web Interaction.",
+        "12:00 pm - 01:00 pm": "Lunch.",
+        "01:00 pm - 02:00 pm": "Portfolio site development: Layout & Design.",
+        "02:00 pm - 03:30 pm": "Study specific topic: AWS Basics.",
+        "03:30 pm - 04:00 pm": "Short break.",
+        "04:00 pm - 12:00 am": "Work at the restaurant."
+    },
+    "Tuesday": {
+        "08:00 am - 09:00 am": "Morning routine/breakfast.",
+        "09:00 am - 10:00 am": "LeetCode problem & review.",
+        "10:00 am - 12:30 pm": "Work on Python project: Data Cleaning.",
+        "12:30 pm - 01:30 pm": "Lunch.",
+        "01:30 pm - 03:30 pm": "Portfolio site development: Content & Optimization.",
+        "03:30 pm - 05:00 pm": "Study specific topic: AI Algorithms.",
+        "05:00 pm - 07:00 pm": "Relax or Free Time.",
+        "07:00 pm - 08:30 pm": "Work on Python project: User Interaction."
+    },
+    "Wednesday": {
+        "08:00 am - 09:00 am": "Morning routine/breakfast.",
+        "09:00 am - 10:00 am": "LeetCode problem & review.",
+        "10:00 am - 12:30 pm": "Work on Python project: Database Management.",
+        "12:30 pm - 01:30 pm": "Lunch.",
+        "01:30 pm - 03:30 pm": "Portfolio site development: Responsive Testing.",
+        "03:30 pm - 05:00 pm": "Study specific topic: Web Tokens Implementation.",
+        "05:00 pm - 07:00 pm": "Relax or Free Time.",
+        "07:00 pm - 08:30 pm": "Work on Python project: Error Handling."
+    },
+    "Thursday": {
+        "08:00 am - 09:00 am": "Morning routine/breakfast.",
+        "09:00 am - 10:00 am": "LeetCode problem & review.",
+        "10:00 am - 12:30 pm": "Work on Python project: Finalize Error Handling & Feedback.",
+        "12:30 pm - 01:30 pm": "Lunch.",
+        "01:30 pm - 03:30 pm": "Portfolio site development: SEO & Performance Optimization.",
+        "03:30 pm - 05:00 pm": "Study specific topic: Basics of AI in Web Development.",
+        "05:00 pm - 07:00 pm": "Relax or Free Time."
+    },
+    "Friday": {
+        "08:00 am - 09:00 am": "Morning routine/breakfast.",
+        "09:00 am - 10:00 am": "LeetCode problem & review.",
+        "10:00 am - 12:00 pm": "Work on Python project: Review and Testing.",
+        "12:00 pm - 01:00 pm": "Lunch.",
+        "01:00 pm - 03:00 pm": "Portfolio site development: Review and Feedback.",
+        "03:00 pm - 05:00 pm": "Study specific topic: Advanced AWS Tools & Techniques.",
+        "05:00 pm - 07:00 pm": "Relax or Free Time.",
+        "07:00 pm - 09:00 pm": "Chill, prepare for Saturday's work, or work on any topic of interest."
+    },
+    "Saturday": {
+        "11:00 am - 06:00 pm": "Work at the restaurant.",
+        "06:00 pm - 07:00 pm": "Dinner.",
+        "07:00 pm - 08:00 pm": "LeetCode problem & review.",
+        "08:00 pm - 10:00 pm": "Relax or Free Time."
+    }
+}

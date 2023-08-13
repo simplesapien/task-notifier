@@ -1,0 +1,3 @@
+Always include work schedule: monday-friday 9-5.
+Include a daily leetcode problem.
+Include work on job applications + portfolio projects daily.

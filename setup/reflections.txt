@@ -1,0 +1,3 @@
+Areas for improvement:
+- I didn't spend enough time on my portfolio website
+- Struggling to understand certain advanced python concepts
